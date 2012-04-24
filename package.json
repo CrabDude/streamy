@@ -1,0 +1,17 @@
+{
+  "author": "Adam Crabtree <dude@noderiety.com> (http://noderiety.com)",
+  "name": "streamy",
+  "description": "Stream management and abstraction library.",
+  "version": "0.0.0",
+  "homepage": "http://github.com/CrabDude/streamy",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CrabDude/streamy.git"
+  },
+  "main": "index",
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
